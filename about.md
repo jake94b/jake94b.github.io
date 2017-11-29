@@ -14,6 +14,4 @@ I got into computer science because I always found myself drawn to computers, bu
 
 Fast forward several years and I have not regretted my decision. So many paths have opened to my ever since I decided to pursue a future in programming, and I want to further my knowledge by updating this blog with my thoughts on recent events in fields I'm interested in, updates on projects I'm working on, as well as just personal events or other things that catch my eye. Feel free to stay updated!
 
-### Contact me
 
-[jbutler1@csustan.edu(mailto:jbutler1@csustan.edu)
